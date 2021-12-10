@@ -1,0 +1,15 @@
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.csproj.AssemblyReference.cache
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.AssemblyInfoInputs.cache
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.AssemblyInfo.cs
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.csproj.CoreCompileInputs.cache
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\HolidayMailer.exe
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\HolidayMailer.deps.json
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\HolidayMailer.runtimeconfig.json
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\HolidayMailer.dll
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\ref\HolidayMailer.dll
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\bin\Debug\net6.0-windows\HolidayMailer.pdb
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.dll
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\ref\HolidayMailer.dll
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.pdb
+C:\Users\nkristesiashvili\Desktop\Holday-Mailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.genruntimeconfig.cache
