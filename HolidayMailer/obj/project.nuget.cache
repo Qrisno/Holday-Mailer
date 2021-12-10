@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6KJTZFQEvq8BB5D30CN0L3LIr34HXKrEZHkaVbjLgg82AYZsxAXc4vxUW+YssQMSUyHVa+rM0gSpNtSJeeZ1SQ==",
+  "dgSpecHash": "GlRaJESuAwlfb/RiOnCwR0lILdw3NFQyROh9MpW9YjAJeq76THWe3FqgloFyHTKWHUMk0y2mWiUIgrTMdrUCyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nkristesiashvili\\Desktop\\Holday-Mailer\\HolidayMailer\\HolidayMailer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nkristesiashvili\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\nkristesiashvili\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\nkristesiashvili\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
   "logs": []
 }
